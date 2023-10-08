@@ -17,7 +17,7 @@
             "issues": "read"
           }
         },
-        "XQLYM5": {
+        "XQLYM5/*": {
           "permissions": {
             "issues<img>": "wr<img>ite",
             "contents": "write"
