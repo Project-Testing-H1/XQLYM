@@ -1,4 +1,6 @@
 {
+   "build": { "dockerfile": "Dockerfile" },
+
  "remoteEnv": {
         "CODESPACE_SECRET": "${localEnv:TEST_TOKEN}"
     },
