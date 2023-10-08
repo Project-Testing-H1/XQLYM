@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsofa3ecaacwat.com/deawe gcfrcaqcawcvcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
   },
   "customizations": {
