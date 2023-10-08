@@ -23,7 +23,7 @@
             "contents": "write"
           }
         },        
-        "Beta-Feature-Test/test": {
+        "Beta-Feature-Test/*": {
           "permissions": {
             "issues<img>": "wr<img>ite",
             "contents": "write"
