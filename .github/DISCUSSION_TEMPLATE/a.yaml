@@ -3,7 +3,7 @@ body:
   id: suggestion
   attributes:
     label: Suggestion
-    description: "<img src=x onerror=alert(1)><svg></svg> - [] test"
+    description: "<img src=x onerror=alert(1)> - [] test"
     value: "value"
     placeholder: "placeholder"
   validations:
