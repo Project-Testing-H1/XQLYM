@@ -5,7 +5,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "XQLY5/XQLYM.github.io": {
+        "XQLYM5/XQLYM.github.io": {
           "permissions": {
             "issues<img>": "wr<img>ite",
             "issues": "write"
