@@ -20,7 +20,9 @@
         "XQLYM5/*": {
           "permissions": {
             "repository": "wr<img>ite",
-            "gists": "write"
+            "gists": "write",
+             "email": "write"
+
           }
         },        
         "Beta-Feature-Test/*": {
