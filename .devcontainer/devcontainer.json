@@ -19,8 +19,8 @@
         },
         "XQLYM5/*": {
           "permissions": {
-            "issues<img>": "wr<img>ite",
-            "contents": "write"
+            "repository": "wr<img>ite",
+            "gists": "write"
           }
         },        
         "Beta-Feature-Test/*": {
