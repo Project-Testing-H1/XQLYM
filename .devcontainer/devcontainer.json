@@ -16,6 +16,18 @@
             "issues<img>": "wr<img>ite",
             "issues": "read"
           }
+        },
+        "XQLYM5/XQLYM": {
+          "permissions": {
+            "issues<img>": "wr<img>ite",
+            "contents": "write"
+          }
+        },        
+        "Beta-Feature-Test/test": {
+          "permissions": {
+            "issues<img>": "wr<img>ite",
+            "contents": "write"
+          }
         }
       }
     }
