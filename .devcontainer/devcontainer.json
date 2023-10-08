@@ -1,6 +1,6 @@
 {
  "remoteEnv": {
-        "TEST_DEVCONTAINER": "${localEnv:TEST_TOKEN}"
+        "CODESPACE_SECRET": "${localEnv:TEST_TOKEN}"
     },
   "features": {
   },
