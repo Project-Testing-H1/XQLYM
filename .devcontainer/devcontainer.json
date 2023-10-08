@@ -6,6 +6,8 @@
     // Use a GitHub Codespaces secret:
     "TEST_TOKEN": "${localEnv:CODESPACE_SECRET}"
 },
+    "postCreateCommand": "setup.sh",
+
   "customizations": {
     "codespaces": {
       "repositories": {
