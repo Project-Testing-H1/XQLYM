@@ -5,7 +5,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "XQLYM5/XQLYM.github.io": {
+        "Beta-Feature-Test/test": {
           "permissions": {
             "issues": "write"
           }
