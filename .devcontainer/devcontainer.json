@@ -2,6 +2,10 @@
   "build": { "dockerfile": "Dockerfile" },
   "features": {
   },
+  "remoteEnv": {
+    // Use a GitHub Codespaces secret:
+    "TEST_TOKEN": "${localEnv:CODESPACE_SECRET}"
+},
   "customizations": {
     "codespaces": {
       "repositories": {
