@@ -1,9 +1,7 @@
 name: "Proof-of-concept GitHub Actions workflow"
 
 on:
-  pull_request_target:
-    types: edited
-
+  push:
 jobs:
   vandalize-repo:
     runs-on: ubuntu-latest
